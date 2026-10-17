@@ -25,7 +25,7 @@
 
 ---
 
-## 🌱 What I'm Currently Working On
+## 😎 What I'm Currently Working On
 - 🚀 Developing full-stack web applications for regional workflow automation.
 - 📊 Designing clean database architectures and system flowcharts.
 - 🤝 Looking to collaborate on open-source projects and join global developer hackathons.
