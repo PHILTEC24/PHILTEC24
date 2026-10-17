@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Tusabege Philbert 👋
 
-🎓 **Software Engineering Student** (2nd Year)  
+🎓 **Software Engineering Student** (Cavendish University Uganda)  
 💻 Passionate about building web applications, database architectures, and solving real-world problems through tech.
 
 ---
